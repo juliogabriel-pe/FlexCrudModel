@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "Node index.js"
     "build:azure": "npm install && npm run build"
   },
   "author": "Maycon",
